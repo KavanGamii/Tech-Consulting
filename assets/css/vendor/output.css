@@ -1320,6 +1320,10 @@ img {
   background-image: url('../images/hero-section-bg.png');
 }
 
+.bg-reason-section {
+  background-image: url('../images/reason-section-bg.png');
+}
+
 .swiper-pagination-bullet {
   position: relative;
 }
