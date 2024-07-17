@@ -2,7 +2,7 @@ var swiper = new Swiper(".mySwiper", {
     slidesPerView: 4,
     spaceBetween: 0,
     autoplay: {
-        delay: 1500,
+        delay: 150000,
         disableOnInteraction: false,
     },
     pagination: {
@@ -33,7 +33,7 @@ var swiper = new Swiper(".center", {
     slidesPerView: 3,
     spaceBetween: 30,
     autoplay: {
-        delay: 1500,
+        delay: 150000,
         disableOnInteraction: false,
     },
     pagination: {
